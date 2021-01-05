@@ -14,8 +14,8 @@ namespace BooksIRead
         }
         static void Main(string[] args)
         {
-            IData book = new CsvData();
-            //Book bookShelf = new Book(book);
+          
+            
             
 
            
